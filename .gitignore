@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+backend/.env
+node_modules/
+dist/
+frontend/dist/
+frontend/node_modules/
+*.tsbuildinfo
+logs/
+findings.md
+progress.md
+task_plan.md
