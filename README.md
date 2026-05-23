@@ -91,8 +91,8 @@ cd backend
 创建并启用虚拟环境：
 
 ```bash
-python -m venv .venv
-.venv\Scripts\activate
+python3 -m venv .venv
+source venv/bin/activate
 ```
 
 安装依赖：
